@@ -4,7 +4,7 @@
   <title><![CDATA[Blogue Aprendendo Ruby]]></title>
   <link href="http://oigreslima.github.io/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
-  <updated>2014-01-09T14:26:35-02:00</updated>
+  <updated>2014-01-09T14:29:00-02:00</updated>
   <id>http://oigreslima.github.io/</id>
   <author>
     <name><![CDATA[Sérgio F. de Lima]]></name>
@@ -18,9 +18,13 @@
     <link href="http://oigreslima.github.io/blog/2014/01/09/referencias/"/>
     <updated>2014-01-09T14:21:13-02:00</updated>
     <id>http://oigreslima.github.io/blog/2014/01/09/referencias</id>
-    <content type="html"><![CDATA[<p>Este é a segunda entrada no blogue. A ideia é listar algumas referências para minha própria consulta futura:
-* <a href="http://ruby.learncodethehardway.org/" title="Ruby Tutorial">Ruby tutorial</a>
-* <a href="http://guides.rubyonrails.org/getting_started.html" title="Guia Rails">Guia Rails</a></p>
+    <content type="html"><![CDATA[<p>Este é a segunda entrada no blogue. A ideia é listar algumas referências para minha própria consulta futura:</p>
+
+<ul>
+<li><a href="http://ruby.learncodethehardway.org/" title="Ruby Tutorial">Ruby tutorial</a>.</li>
+<li><a href="http://guides.rubyonrails.org/getting_started.html" title="Guia Rails">Guia Rails</a>.</li>
+</ul>
+
 ]]></content>
   </entry>
   
