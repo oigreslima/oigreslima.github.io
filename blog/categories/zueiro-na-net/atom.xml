@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Zueiro Na Net | Aprendendo Ruby Blogue]]></title>
+  <title><![CDATA[Category: Zueiro Na Net | Blogue Aprendendo Ruby]]></title>
   <link href="http://oigreslima.github.io/blog/categories/zueiro-na-net/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
-  <updated>2014-01-09T09:42:46-02:00</updated>
+  <updated>2014-01-09T10:05:08-02:00</updated>
   <id>http://oigreslima.github.io/</id>
   <author>
     <name><![CDATA[Sérgio F. de Lima]]></name>
