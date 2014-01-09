@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Aplicação | Blogue Aprendendo Ruby]]></title>
   <link href="http://oigreslima.github.io/blog/categories/aplicacao/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
-  <updated>2014-01-09T10:34:39-02:00</updated>
+  <updated>2014-01-09T10:51:04-02:00</updated>
   <id>http://oigreslima.github.io/</id>
   <author>
     <name><![CDATA[Sérgio F. de Lima]]></name>
@@ -21,6 +21,10 @@
     <content type="html"><![CDATA[<p>Começando o blogue sobre RubyRaills e, em particular, usando o <a href="http://octopress.org/" title="Octopress">Octopress</a> como motor de blogue. Basicamente eu segui este <a href="http://tableless.com.br/criando-um-blog-com-octopress-e-github-pages/" title="tutorial sobre octopress">ótimo tutorial</a> no <a href="http://tableless.com.br" title="tableless">tableless</a>.</p>
 
 <p>Como você pode ver, ainda estou usando quase toda a configuração padrão. Espero poder dominar minimamente as ferramentas para personalizar mais ainda o blogue.</p>
+
+<p>Como efeito colateral estou aprendendo a usar <a href="http://pt.wikipedia.org/wiki/Markdown" title="Markdown na Wikipedia">markdown</a>, que é a maneira de escrever os textos no <a href="http://octopress.org/" title="Octopress">Octopress</a>. Falta localizar ainda alguma partes do blogue para pt-br!</p>
+
+<p>Permaneça ligado :&ndash;)</p>
 ]]></content>
   </entry>
   
