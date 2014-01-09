@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Blogue | Blogue Aprendendo Ruby]]></title>
+  <title><![CDATA[Category: blogue | Blogue Aprendendo Ruby]]></title>
   <link href="http://oigreslima.github.io/blog/categories/blogue/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
-  <updated>2014-01-09T10:51:04-02:00</updated>
+  <updated>2014-01-09T11:03:46-02:00</updated>
   <id>http://oigreslima.github.io/</id>
   <author>
     <name><![CDATA[Sérgio F. de Lima]]></name>
