@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Octopress | Blogue Aprendendo Ruby]]></title>
-  <link href="http://oigreslima.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Aplicação | Blogue Aprendendo Ruby]]></title>
+  <link href="http://oigreslima.github.io/blog/categories/aplicacao/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
   <updated>2014-01-09T10:14:02-02:00</updated>
   <id>http://oigreslima.github.io/</id>

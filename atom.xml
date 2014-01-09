@@ -4,7 +4,7 @@
   <title><![CDATA[Blogue Aprendendo Ruby]]></title>
   <link href="http://oigreslima.github.io/atom.xml" rel="self"/>
   <link href="http://oigreslima.github.io/"/>
-  <updated>2014-01-09T10:05:08-02:00</updated>
+  <updated>2014-01-09T10:14:02-02:00</updated>
   <id>http://oigreslima.github.io/</id>
   <author>
     <name><![CDATA[Sérgio F. de Lima]]></name>
@@ -14,11 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Começando a Zueira Na Net]]></title>
+    <title type="html"><![CDATA[Olá Mundo!]]></title>
     <link href="http://oigreslima.github.io/blog/2014/01/09/comecando-a-zueira-na-net/"/>
     <updated>2014-01-09T09:27:11-02:00</updated>
     <id>http://oigreslima.github.io/blog/2014/01/09/comecando-a-zueira-na-net</id>
-    <content type="html"><![CDATA[<p>Começando o blogue sobre Ruby e, em particular, usando o Octoplus como motor de blogue</p>
+    <content type="html"><![CDATA[<p>Começando o blogue sobre RubyRaills e, em particular, usando o <a href="http://octopress.org/" title="Octopress">Octoplus</a> como motor de blogue. Basicamente eu segui este <a href="http://tableless.com.br/criando-um-blog-com-octopress-e-github-pages/" title="tutorial sobre octopress">ótimo tutorial
+</a> no <a href="http://tableless.com.br" title="tableless">tableless</a>.</p>
+
+<p>Como você pode ver, ainda estou usando quase toda a configuração padrão. Espero poder dominar minimamente as ferramentas para personalizar mais ainda o blogue.</p>
 ]]></content>
   </entry>
   
