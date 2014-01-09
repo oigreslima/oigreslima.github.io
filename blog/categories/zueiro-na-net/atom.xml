@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Zueiro Na Net | Aprendendo Ruby Blogue]]></title>
+  <link href="http://oigreslima.github.io/blog/categories/zueiro-na-net/atom.xml" rel="self"/>
+  <link href="http://oigreslima.github.io/"/>
+  <updated>2014-01-09T09:34:25-02:00</updated>
+  <id>http://oigreslima.github.io/</id>
+  <author>
+    <name><![CDATA[Sérgio F. de Lima]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Começando a Zueira Na Net]]></title>
+    <link href="http://oigreslima.github.io/blog/2014/01/09/comecando-a-zueira-na-net/"/>
+    <updated>2014-01-09T09:27:11-02:00</updated>
+    <id>http://oigreslima.github.io/blog/2014/01/09/comecando-a-zueira-na-net</id>
+    <content type="html"><![CDATA[<p>Começando o blogue sobre Ruby e, em particular, usando o Octoplus como motor de blogue</p>
+]]></content>
+  </entry>
+  
+</feed>
